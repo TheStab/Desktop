@@ -1,4 +1,3 @@
-/* Online Kotlin Compiler */
 fun main() {
 
     while(true) {
